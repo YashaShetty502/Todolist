@@ -17,3 +17,5 @@ The data is stored in database using mongoDB. You can create multiple lists if y
 
 # Check this out🤩
 
+<img src = "https://github.com/YashaShetty502/Todolist/blob/master/todolist_demo.gif" alt="todolist_demo" width="80%">
+
